@@ -1,2 +1,2 @@
-# hash_table
+# Hash Table
 Java Hash Table Sample
